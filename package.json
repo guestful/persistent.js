@@ -1,6 +1,6 @@
 {
   "name": "guestful-persistent",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "main": "guestful-persistent.js",
   "description": "Guestful utility for static data",
