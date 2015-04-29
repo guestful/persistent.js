@@ -23,5 +23,5 @@ module.exports = function (grunt) {
 
     grunt.loadNpmTasks('grunt-bump');
 
-    grunt.registerTask('release', ['grunt-bump']);
+    grunt.registerTask('release', ['bump']);
 };
