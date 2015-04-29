@@ -1,0 +1,23 @@
+{
+  "name": "guestful-persistent",
+  "version": "0.1.0",
+  "private": true,
+  "main": "guestful-persistent.js",
+  "description": "Guestful utility for static data",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guestful/persistent.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guestful/persistent.js/issues"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "request": "^2.55.0"
+  }
+}
