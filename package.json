@@ -1,6 +1,6 @@
 {
   "name": "guestful-persistent",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "private": true,
   "main": "guestful-persistent.js",
   "description": "Guestful utility for static data",
@@ -19,5 +19,9 @@
   "dependencies": {
     "async": "^0.9.0",
     "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.3.1"
   }
 }
